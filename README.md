@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hey, I'm Kaushal  <br><br>🎓 IIT (BHU) Varanasi | Materials Science  <br>💻 Full-Stack Developer | Competitive Programmer<br><br>I focus on building clean, efficient, and scalable web applications using modern technologies like React, Tailwind CSS, and APIs.  <br>I enjoy applying structured problem-solving approaches and continuously improving my technical skills.  <br><br>🚀 Currently exploring full-stack development and real-world applications of technology  <br>🎬 Also interested in creative work, including design and visual storytelling  <br><br>⚡ Committed to learning, building, and delivering impactful solutions
+### Hey, I'm Kaushal 👋
+![](https://komarev.com/ghpvc/?username=kejriwalkaushal04&label=Profile%20Views&color=blue&style=plastic)
+<br>
+🎓 IIT (BHU) Varanasi | Materials Science  <br>💻 Full-Stack Developer | Competitive Programmer | Tech Enthusiast<br>
+
+I focus on building clean, efficient, and scalable web applications using modern technologies. <br>I enjoy applying structured problem-solving approaches and continuously improving my technical skills.  <br><br>🚀 Currently exploring full-stack development and real-world applications of technology  <br>🎬 Also interested in creative work, including design and visual storytelling  <br><br>⚡ Committed to learning, building, and delivering impactful solutions
 
 
 ## 🌐 Socials:
