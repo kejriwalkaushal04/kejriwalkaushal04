@@ -1,17 +1,85 @@
-### Hey, I'm Kaushal 👋
-![](https://komarev.com/ghpvc/?username=kejriwalkaushal04&label=Profile%20Views&color=blue&style=plastic)
-<br>
-🎓 IIT (BHU) Varanasi | Materials Science  <br>💻 Full-Stack Developer | Competitive Programmer | Tech Enthusiast<br>
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=32&duration=2500&pause=1000&color=000000&vCenter=true&width=700&height=60&lines=%F0%9F%95%B7%EF%B8%8F+Hey%2C+I'm+Kaushal+Kejriwal+%F0%9F%91%8B" 
+    alt="Hey, I'm Kaushal Kejriwal" 
+  />
+</p>
 
-I focus on building clean, efficient, and scalable web applications using modern technologies. <br>I enjoy applying structured problem-solving approaches and continuously improving my technical skills.  <br><br>🚀 Currently exploring full-stack development and real-world applications of technology  <br>🎬 Also interested in creative work, including design and visual storytelling  <br><br>⚡ Committed to learning, building, and delivering impactful solutions
+![](https://komarev.com/ghpvc/?username=kejriwalkaushal04&label=Profile%20Views&color=red&style=for-the-badge)
 
+🎓 **Materials Science @ IIT (BHU) Varanasi**  
+💻 **Full-Stack Developer | Open Source Contributor | Competitive Programmer**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaushal_kejriwal) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushal-kejriwal-615128283/) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/kaushal_kejriwal) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/kaushal_kejriwal/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-website-six-teal-24.vercel.app/)
+> “Into the Code-Verse — building scalable apps, solving problems, and creating impactful digital experiences.”
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+---
+
+## 🚀 About Me
+
+- 🌱 Exploring **Full-Stack Development**, **AI-powered Web Apps**, and scalable backend systems
+- ⚡ Solved **600+ DSA problems** across coding platforms
+- 🏆 **CodeChef:** 2★ (1457)  
+- 🥷 **Codeforces:** Specialist (1422)  
+- 🔥 **LeetCode:** 1524  
+- 💡 Open Source Contributor at [**GirlScript Summer of Code (GSSoC)**](https://gssoc.girlscript.org/profile/67cbb544-9407-44b6-8a44-393a4e9d5ec1)
+- 🎨 Interested in **UI/UX**, digital design, and visual storytelling
+
+---
+
+# 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-six-teal-24.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushal-kejriwal-615128283/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kaushal_kejriwal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kaushal_kejriwal/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kaushal_iitbhu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaushal_kejriwal)
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### ⚙️ Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kejriwalkaushal04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=kejriwalkaushal04&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kejriwalkaushal04&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+# 🕸️ Current Focus
+
+- Building scalable full-stack applications
+- Exploring AI integration in web development
+- Open-source contributions & collaboration
+- Strengthening backend development and system design
+
+---
+
+⭐️ From [Kaushal Kejriwal](https://github.com/kejriwalkaushal04)
