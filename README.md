@@ -63,16 +63,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=kejriwalkaushal04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=kejriwalkaushal04&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kejriwalkaushal04&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
 # 🕸️ Current Focus
 
 - Building scalable full-stack applications
